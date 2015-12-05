@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wallpapers" translatable="false">
+        <item>nuclear1</item>
+        <item>nuclear2</item>
+        <item>nuclear3</item>
+        <item>nuclear4</item>
+        <item>nuclear5</item>
+        <item>nuclear6</item>
+        <item>nuclear7</item>
+	    <item>nuclear8</item>
+	    <item>nuclear9</item>
+        <item>nuclear10</item>
+        <item>nuclear11</item>
+        <item>nap1</item>
+        <item>nap2</item>
+        <item>nap3</item>
+        <item>nap4</item>
+        <item>halloween1</item>
+        <item>halloween2</item>
+    </string-array>
+
+    <string-array name="info" translatable="false">
+        <item>Team Nuclear - Nuclear1</item>
+        <item>Team Nuclear - Nuclear2</item>
+        <item>Team Nuclear - Nuclear3</item>
+        <item>Team Nuclear - Nuclear4</item>
+        <item>Team Nuclear - Nuclear5</item>
+        <item>Team Nuclear - Nuclear6</item>
+        <item>Team Nuclear - Nuclear7</item>
+        <item>Team Nuclear - Nuclear8</item>
+        <item>Team Nuclear - Nuclear9</item>
+        <item>Team Nuclear - Nuclear10</item>
+        <item>Team Nuclear - Nuclear11</item>
+        <item>Team Nuclear - NAP1</item>
+        <item>Team Nuclear - NAP2</item>
+        <item>Team Nuclear - NAP3</item>
+        <item>Team Nuclear - NAP4</item>
+        <item>Team Nuclear - halloween1</item>
+        <item>Team Nuclear - halloween2</item>
+    </string-array>
+</resources>
