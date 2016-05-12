@@ -12,12 +12,13 @@
 	    <item>nuclear9</item>
         <item>nuclear10</item>
         <item>nuclear11</item>
+        <item>nuclear12</item>
+        <item>nuclear13</item>
+        <item>nuclear14</item>
         <item>nap1</item>
         <item>nap2</item>
         <item>nap3</item>
         <item>nap4</item>
-        <item>halloween1</item>
-        <item>halloween2</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -32,11 +33,12 @@
         <item>Team Nuclear - Nuclear9</item>
         <item>Team Nuclear - Nuclear10</item>
         <item>Team Nuclear - Nuclear11</item>
+        <item>Team Nuclear - Nuclear12</item>
+        <item>Team Nuclear - Nuclear13</item>
+        <item>Team Nuclear - Nuclear14</item>
         <item>Team Nuclear - NAP1</item>
         <item>Team Nuclear - NAP2</item>
         <item>Team Nuclear - NAP3</item>
         <item>Team Nuclear - NAP4</item>
-        <item>Team Nuclear - halloween1</item>
-        <item>Team Nuclear - halloween2</item>
     </string-array>
 </resources>

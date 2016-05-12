@@ -7,7 +7,7 @@ android {
         applicationId "com.delozoya.nuclearwallpaper"
         minSdkVersion 15
         targetSdkVersion 23
-        versionName '5'
+        versionName '5.1'
         versionCode 5
     }
     buildTypes {
